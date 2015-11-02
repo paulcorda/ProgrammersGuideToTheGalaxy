@@ -27,13 +27,17 @@ The following require the Phoenix Theme installed:
 ### Settings - More: Ruby
 * "extensions": ["Vagrantfile"]
 
+### Settings - More: Markdown
+* "trim_trailing_white_space_on_save": false
+
 ## Preferences / Key Bindings - User
 * { "keys": ["ctrl+tab"], "command": "next_view" },
 * { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 * { "keys": ["f5"], "command": "refresh_folder_list" }
 
 ## Plugins
-@TODO add lince
+@TODO add links
+
 1. Package Controller
 2. DocBlockr
 3. Alignment
