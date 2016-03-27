@@ -41,6 +41,10 @@ The following require the Phoenix Theme installed:
 1. Package Controller
 2. DocBlockr
 3. Alignment
-4. Phoenix Theme
-5. Markdown Preview
-6. Puppet
+4. Theme - Phoenix
+5. Puppet
+6. Phpcs
+7. Sass
+8. Twig
+9. Xdebug Client
+10. CodeComplice
